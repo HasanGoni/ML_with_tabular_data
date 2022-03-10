@@ -1,6 +1,6 @@
 # Tabular data analysis
 
-- This repo is created to add different factor for machine learing.
-- Each folder contain one criteria. (like feature engineering, feature selection, permuation importance, Dimensionality reduction)
-- Most of the codes are taken from different courses (coursera or fastai)
+- This repo is created to add different criteria for machine learning(only for tabular data).
+- Each folder contain one criteria. (like feature engineering, feature selection, permutation importance, Dimensionality reduction)
+- Most of the codes are taken from different online courses (coursera or fastai)
 
